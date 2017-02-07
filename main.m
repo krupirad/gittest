@@ -1,7 +1,7 @@
 clear
 
 A=[1 2; 3 4];
-im = nactiObrazek('obr/lena.bmp');
+im = nactiObrazek('obr/letadlo.jpg');
 
 prdel
 imshow(im);
