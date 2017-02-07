@@ -8,7 +8,6 @@ BW = edge(im,'canny');
 
 figure
 imshow(im2gray(im))
-
 figure
 imshow(BW)
 
