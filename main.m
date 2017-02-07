@@ -1,5 +1,7 @@
 clear
-im = nactiObrazek('obr/letadlo.jpg');
+A=[1 2; 3 4];
+im = nactiObrazek('obr/lena.bmp');
+prdel
 imshow(im);
+BW = edge(1,'canny');
 
-  BW = edge(1,'canny');
