@@ -1,3 +1,3 @@
 clear
-im = nactiObrazek('obr/letadlo.jpg');
+im = nactiObrazek('obr/lena.bmp');
 imshow(im);
