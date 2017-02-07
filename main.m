@@ -6,3 +6,7 @@ im = nactiObrazek('obr/lena.bmp');
 prdel
 imshow(im);
 
+figure
+
+imshow(im2gray(im))
+
